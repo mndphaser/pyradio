@@ -86,7 +86,7 @@ If you get that message, or a similar one, it is time to install `pipx`.
 
 If you are on any of the BSDs, please do install **bash** beforehand and try to follow the [pip installation guide](linux.md).
 
-Please be aware that **PyRadio** is provided as a **port** on [FreeBSB](https://www.freshports.org/audio/py-pyradio/).
+Please be aware that **PyRadio** is provided as a **port** on [FreeBSD](https://www.freshports.org/audio/py-pyradio/).
 
 
 ### Rasberry Pi installation
